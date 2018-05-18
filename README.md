@@ -3,7 +3,7 @@
 ### Information on the code
 Each part of of the system has his own code in a dedicated folder  
 The part of the train is in Java  
-The part of the dock is in python
+The part of the station is in python
 
 ## Description:  
 We want to realise a system to fluidize the traffic inside the MTR by giving in real time the optimal
